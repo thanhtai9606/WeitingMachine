@@ -1,0 +1,11 @@
+D:\Programming\WeightingMachine\bin\Debug\WeightingMachine.exe
+D:\Programming\WeightingMachine\bin\Debug\UI.Controls.LedControl.dll
+D:\Programming\WeightingMachine\bin\Debug\WeightingMachine.exe.config
+D:\Programming\WeightingMachine\bin\Debug\UI.LoadingCircle.dll
+D:\Programming\WeightingMachine\obj\Debug\WeightingMachine.Form1.resources
+D:\Programming\WeightingMachine\obj\Debug\WeightingMachine.Properties.Resources.resources
+D:\Programming\WeightingMachine\obj\Debug\WeightingMachine.Resource.resources
+D:\Programming\WeightingMachine\obj\Debug\WeightingMachine.csproj.GenerateResource.Cache
+D:\Programming\WeightingMachine\obj\Debug\WeightingMachine.exe
+D:\Programming\WeightingMachine\obj\Debug\WeightingMachine.pdb
+D:\Programming\WeightingMachine\bin\Debug\WeightingMachine.pdb

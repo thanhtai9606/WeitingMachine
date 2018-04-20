@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Trucks>
+  <Truck>
+    <VoucherID>8df285ed-4584-433c-b457-ac8556bb5192</VoucherID>
+    <VehicleNO>3</VehicleNO>
+    <CheckInTime></CheckInTime>
+    <CheckOutTime></CheckOutTime>
+    <FirstWeight>0</FirstWeight>
+    <SecondWeight>0</SecondWeight>
+    <CompanyName />
+    <ProductName />
+    <Security />
+    <Driver />
+    <Note></Note>
+    <Status>C</Status>
+  </Truck>
+  <Truck>
+    <VoucherID>41e62e67-10a5-4da9-83ce-460c433a2244</VoucherID>
+    <VehicleNO>4</VehicleNO>
+    <CheckInTime>2018-04-20 16:16:13</CheckInTime>
+    <CheckOutTime></CheckOutTime>
+    <FirstWeight>0</FirstWeight>
+    <SecondWeight>0</SecondWeight>
+    <CompanyName />
+    <ProductName />
+    <Security />
+    <Driver />
+    <Note></Note>
+    <Status>I</Status>
+  </Truck>
+  <Truck>
+    <VoucherID>91664803-7538-4491-9e1b-545276ef31b0</VoucherID>
+    <VehicleNO>5</VehicleNO>
+    <CheckInTime>2018-04-20 16:18:56</CheckInTime>
+    <CheckOutTime></CheckOutTime>
+    <FirstWeight>0</FirstWeight>
+    <SecondWeight>0</SecondWeight>
+    <CompanyName />
+    <ProductName />
+    <Security />
+    <Driver />
+    <Note></Note>
+    <Status>I</Status>
+  </Truck>
+</Trucks>
